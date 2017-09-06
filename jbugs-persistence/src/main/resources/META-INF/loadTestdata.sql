@@ -1,0 +1,5 @@
+-- User test data
+INSERT INTO USER (FIRSTNAME, LASTNAME, LOCKVERSION) VALUES ('Max', 'Mustermann',1);
+INSERT INTO USER (FIRSTNAME, LASTNAME, LOCKVERSION) VALUES ('Mary', 'Jane',1);
+
+-- other tables TODO
